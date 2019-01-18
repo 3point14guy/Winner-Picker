@@ -1,4 +1,4 @@
-#Winner Picker
+# Winner Picker
 
 Winner Picker is a command line program that randomly generates a winner from a list of user generated names.
 
