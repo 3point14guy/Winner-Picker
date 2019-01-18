@@ -10,7 +10,7 @@ To enter your own list, first use the Remove Names feature to wipe the file and 
 
 
 
-The Asheville Chapter of Google Developers Group held a 5 part Intro to Python course from November 2018 through January 2019. The course was facilitated by Daryl Rue and used Udacity's [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) as the lesson material.
+The [Asheville Chapter of Google Developers Group](https://www.meetup.com/Google-Developers-Group-Asheville/) held a 5 part Intro to Python course from November 2018 through January 2019. The course was facilitated by Daryl Rue and used Udacity's [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) as the lesson material.
 
 Winner Picker is my solution to the course final project.
 
