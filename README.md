@@ -14,7 +14,7 @@ The [Asheville Chapter of Google Developers Group](https://www.meetup.com/Google
 
 Winner Picker is my solution to the course final project.
 
-The reuirements for that final project:
+The requirements for that final project:
 
 For this class you will complete your final project. You can choose between the following 2 options:
 * Create your own program. You design and build any program you choose. The only requirement is that it is written in Python.
